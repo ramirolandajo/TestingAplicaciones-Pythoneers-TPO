@@ -1,2 +1,13 @@
 # TestingAplicaciones Pythoneers TPO
- Trabajo Practico Testing Aplicaciones
+ Testing de Aplicaciones: Trabajo Practico Obligatorio
+
+**Nombre del Equipo:** 
+
+* Pythoneers
+
+Integrantes:
+
+* Juarez, Rodrigo
+* Landajo, Ramiro
+* Serrano, Julian
+
