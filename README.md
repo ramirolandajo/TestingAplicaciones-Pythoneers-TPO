@@ -22,4 +22,11 @@ https://docs.google.com/spreadsheets/d/15oQAgd8rrW5RV38UaSXuBo88vFT5zsBLmdH9p_17
 https://docs.google.com/spreadsheets/d/15oQAgd8rrW5RV38UaSXuBo88vFT5zsBLmdH9p_17Jx0/edit?usp=sharing <br /><br />
 
 **Google Docs Sprint 4** <br />
-https://docs.google.com/spreadsheets/d/15oQAgd8rrW5RV38UaSXuBo88vFT5zsBLmdH9p_17Jx0/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/15oQAgd8rrW5RV38UaSXuBo88vFT5zsBLmdH9p_17Jx0/edit?usp=sharing <br /><br />
+
+**Google Docs Sprint 5** <br />
+https://docs.google.com/spreadsheets/d/15oQAgd8rrW5RV38UaSXuBo88vFT5zsBLmdH9p_17Jx0/edit?usp=sharing <br /><br />
+
+**KPI:** <br />
+Archivo "Grafico de Barras KPI Testing.py"
+
