@@ -27,6 +27,9 @@ https://docs.google.com/spreadsheets/d/15oQAgd8rrW5RV38UaSXuBo88vFT5zsBLmdH9p_17
 **Google Docs Sprint 5** <br />
 https://docs.google.com/spreadsheets/d/15oQAgd8rrW5RV38UaSXuBo88vFT5zsBLmdH9p_17Jx0/edit?usp=sharing <br /><br />
 
+**Informe Semanal:** <br />
+https://docs.google.com/document/d/1bSb67xBrCwTcgOj5pMRNB1aTQBZUc-bfqEgyO7cbBWs/edit?usp=sharing <br /><br />
+
 **KPI:** <br />
 Archivo "Grafico de Barras KPI Testing.py"
 
