@@ -27,9 +27,13 @@ https://docs.google.com/spreadsheets/d/15oQAgd8rrW5RV38UaSXuBo88vFT5zsBLmdH9p_17
 **Google Docs Sprint 5** <br />
 https://docs.google.com/spreadsheets/d/15oQAgd8rrW5RV38UaSXuBo88vFT5zsBLmdH9p_17Jx0/edit?usp=sharing <br /><br />
 
-**Informe Semanal:** <br />
+**Informe Semanal - Sprint 5:** <br />
 https://docs.google.com/document/d/1bSb67xBrCwTcgOj5pMRNB1aTQBZUc-bfqEgyO7cbBWs/edit?usp=sharing <br /><br />
+
+**Informe Semanal - Sprint 6:** <br />
+https://docs.google.com/document/d/1lmib2miXRZoDBY_kkVA88YFWTelzXdXF/edit?usp=sharing&ouid=101062869630694962872&rtpof=true&sd=true<br /><br />
 
 **KPI:** <br />
 Archivo "Grafico de Barras KPI Testing.py"
+Archivo "Grafico Bugs.py"
 
