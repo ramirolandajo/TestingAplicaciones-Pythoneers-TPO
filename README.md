@@ -49,4 +49,4 @@ Archivo "Grafico Bugs.py"
 **Automatización:** <br />
 Archivo "Login Positivo Selenium.py" con un login funcional para la pagina donde se corrieron los CPs.<br /><br />
 Archivo "Login Negativo Selenium.py" con un login no funcional para la pagina donde se corrieron los CPs.<br /><br />
-Archivo "Archivo Automatizacion Selenium.py" con un relleno de formulario.
+Archivo "Archivo Automatizacion Selenium.py" con un relleno de formulario automatizado.
