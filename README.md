@@ -43,10 +43,10 @@ https://docs.google.com/document/d/1lmib2miXRZoDBY_kkVA88YFWTelzXdXF/edit?usp=sh
 https://docs.google.com/document/d/1Ba8EUia2C5z3tbrJ3EZWMokDfRMiPtl5/edit?usp=sharing&ouid=101062869630694962872&rtpof=true&sd=true<br /><br />
 
 **KPI:** <br />
-Archivo "Grafico de Barras KPI Testing.py"
+Archivo "Grafico de Barras KPI Testing.py"<br /><br />
 Archivo "Grafico Bugs.py"
 
 **Automatización:** <br />
-Archivo "Login Positivo Selenium.py" con un login funcional para la pagina donde se corrieron los CPs.
-Archivo "Login Negativo Selenium.py" con un login no funcional para la pagina donde se corrieron los CPs.
+Archivo "Login Positivo Selenium.py" con un login funcional para la pagina donde se corrieron los CPs.<br /><br />
+Archivo "Login Negativo Selenium.py" con un login no funcional para la pagina donde se corrieron los CPs.<br /><br />
 Archivo "Archivo Automatizacion Selenium.py" con un relleno de formulario.
